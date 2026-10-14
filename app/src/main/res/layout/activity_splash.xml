@@ -9,7 +9,7 @@
             android:text="SK BOX" android:textSize="48sp" android:textStyle="bold"
             android:fontFamily="monospace" android:textColor="@color/logo_color" android:letterSpacing="0.20"/>
         <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
-            android:text="Admin" android:textSize="11sp" android:fontFamily="monospace"
+            android:text="ADMIN" android:textSize="11sp" android:fontFamily="monospace"
             android:textColor="@color/tagline_dim" android:letterSpacing="0.35"/>
         <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
             android:layout_marginTop="24dp" android:orientation="horizontal">
