@@ -1,4 +1,4 @@
--keep class com.puja.admin.** { *; }
+-keep class com.sxbox.admin.** { *; }
 -keepattributes *Annotation*
 -keepattributes JavascriptInterface
 -keepclassmembers class * {
